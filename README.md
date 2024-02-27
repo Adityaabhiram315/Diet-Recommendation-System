@@ -1,5 +1,7 @@
-*Diet Recommendation System* 🥗📊
-##Diet Recommendation System 
+
+
+**Diet Recommendation System🥗📊 **
+
 Welcome to the Diet Recommendation System, a web application designed to help you achieve a healthier lifestyle through personalized diet recommendations! Whether you're looking to maintain a balanced diet, address specific nutritional needs, or explore new and nutritious food options, this application has got you covered.
 
 ## :bookmark_tabs: Table of Contents
